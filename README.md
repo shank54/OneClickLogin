@@ -1,8 +1,10 @@
 Login to any website by using your face as id.
-This application uses opencv to detect, train and recognise your face and then log you in to website.
+This application uses python opencv to detect, train and recognise your face and then log you in to website.
 
 Python version 2.x
-1)First intall the following
+
+Create Three empty folders dataset,recognizer,UserDetails in same directory
+1)Intall the following
            a)  pip install opencv-python
            b)  pip install numpy
            c)  pip install Pillow
